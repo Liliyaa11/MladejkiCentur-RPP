@@ -1,23 +1,27 @@
 ﻿body {
-    background-color:pink;
+    background-color: pink;
 }
 
 h1 {
+
+    color: midnightblue;
+    text-align: justify;
+}
+li {
+    color: midnightblue;
+    text-align:revert;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+h2 {
+    color: midnightblue;
+    text-align: justify;
+}
+h3 {
     color: midnightblue;
     text-align: justify;
 }
 
-p {
-    font-family: verdana;
-    font-size: 30px;
-}
-h2 {
-    color: midnightblue;
-    text-align: justify;
-    font-size: 30px;
-}
-ul {
-    font-size: 25px;
-    color: midnightblue;
-    text-align: justify;
-}
